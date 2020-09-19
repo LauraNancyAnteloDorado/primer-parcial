@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialLauraAntelo", "ParcialLauraAntelo\ParcialLauraAntelo.csproj", "{15C78CF3-9B69-495B-9EFB-ACC896EF2B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utlauraantelo", "Utlauraantelo\Utlauraantelo.csproj", "{84541E95-8BF6-4F33-94E1-52E8AAE3F584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C78CF3-9B69-495B-9EFB-ACC896EF2B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C78CF3-9B69-495B-9EFB-ACC896EF2B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C78CF3-9B69-495B-9EFB-ACC896EF2B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C78CF3-9B69-495B-9EFB-ACC896EF2B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84541E95-8BF6-4F33-94E1-52E8AAE3F584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84541E95-8BF6-4F33-94E1-52E8AAE3F584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84541E95-8BF6-4F33-94E1-52E8AAE3F584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84541E95-8BF6-4F33-94E1-52E8AAE3F584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90266F83-168F-47D9-8E71-5223163DDC96}
+	EndGlobalSection
+EndGlobal
